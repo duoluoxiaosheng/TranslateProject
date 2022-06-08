@@ -9,23 +9,29 @@
 
 6 Linux word processors you need to try
 ======
+六款Linux文字处理程序
+======
 Check out one of my favorite open source word processors to put your ideas to paper.
+选择一款最钟意的文字处理程序把你的想法打印到纸上。
 
 ![Typewriter with hands][1]
 
 Image by: rawpixel.com. CC0.
 
 Writers are always looking for better ways to put their words and ideas into readable formats to share with their readers. My first experiences with word processing came in my Apple II days when I used AppleWorks and later FrEDWriter, which was a free word processing application created in 1985. It was the standard for my students, many of whom came from households that lacked the money to purchase proprietary software.
+作家们总是在寻找更好的方法将他们的语言和想法已更好的方式呈现给他们的读者。我对文字处理程序最早的印象是在 Apple II 上使用 AppleWorks 和 FrEDWriter，一个1985年的免费的文字处理程序。这是我的学生的标配，他们中的许多人来自没有钱购买专用软件的家庭。
 
 ### Abiword
 
 When I made the switch to Linux in the late 1990's, I was looking for high quality writing software that I could use and recommend to students who chose to follow my lead in the world of open source software. The first word processor I became familiar with was [AbiWord][2]. The name AbiWord is derived from the Spanish word, abierto, which means open. It was Initially released in 1998 and it has been under continuous development. It is licensed as GPLv2. It supports basic word processing such as lists, indents and character formats. It supports a variety of import and export file formats including `.doc`, `.html`, `.docx`, and `.odt`.
+在20世纪90年代时，我开始使用 Linux， 我开始寻找可以推荐给在开源软件世界跟随我的学生的高质量的写作程序，我首先接触的文字处理程序是 [AbiWord][2]。 AbiWord 来自西班牙语 Abierto，是打开的意思。最早发布与1998年，并且之后一直在升级。GPLv2授权。支持列表，缩进，字符格式等基本功能。支持比如 .doc, .html, .docx, .odt 等多种格式文件的导入和导出。
 
 ![Image of Abiword][3]
 
 ### Etherpad
 
 [Etherpad][4] is an open source group editing project. It allows you to edit documents in real time much like Google Drive. The main difference is that it is entirely open source. According to their website you can, "write articles, press releases, to-do lists, together with your friends, fellow students or colleagues, all working on the same document at the same time." The source code is readily available to look at. Etherpad is licensed as Apache 2.0. You can use Etherpad in the cloud or download and [install][5] it on your own Linux computer.
+[Etherpad][4] 是一个开源项目。它可以让您想 Google Drive 那样实时编辑文档。它完全开源。据它的网站上介绍,您可以和您的朋友，同学或者同事一起同时编辑同一个文档，写文章，新闻稿和待办清单。源代码可查看。Etherpad 采用 Apache 开源协议。您可以直接在线使用它，或者把它下载并[安装][5]到您的 Linux 电脑上。
 
 ### Cryptpad
 
