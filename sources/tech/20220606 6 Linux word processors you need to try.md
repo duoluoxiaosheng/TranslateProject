@@ -36,7 +36,7 @@ When I made the switch to Linux in the late 1990's, I was looking for high quali
 ### Cryptpad
 
 [CryptPad][6] is a collaboration suite that is end-to-end encrypted. It is licensed with GPLv3 and its source code is available on [GitHub][7]. It was developed by [Xwiki][8] Labs. It is an alternative to Google Drive and is self hosted. According to their website, "CryptPad is built to enable collaboration. It synchronizes changes to documents in real time. Because all data is encrypted, the service and its administrators have no way of seeing the content being edited and stored.” Cryptpad offers extensive [documentation][9] for users.
-[CryptPad][6] 是一个端到端加密的写作套件。使用 GPLv3 开源协议，并且源代码在 [GitHub][7] 上公开。 由 [Xwiki][8] 实验室开发。可替代 Google Drive 并且自主托管。根据网站描述 “CryptPad 旨在实现写作办公。实时同步文档的更改。由于所有数据都已加密，因此服务及其管理员无法查看正在编辑和存储的内容。” Cryptpad 为用户提供了丰富的文档。
+[CryptPad][6] 是一个端到端加密的写作套件。使用 GPLv3 开源协议，并且源代码在 [GitHub][7] 上公开。 由 [Xwiki][8] 实验室开发。可替代 Google Drive 并且自主托管。根据网站描述 “CryptPad 旨在实现写作办公。实时同步文档的更改。由于所有数据都已加密，因此服务及其管理员无法查看正在编辑和存储的内容。” Cryptpad 为用户提供了[丰富的文档][9]。
 
 ### Focuswriter
 
