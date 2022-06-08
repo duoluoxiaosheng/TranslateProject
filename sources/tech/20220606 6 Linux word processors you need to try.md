@@ -41,6 +41,7 @@ When I made the switch to Linux in the late 1990's, I was looking for high quali
 ### Focuswriter
 
 [FocusWriter][10] is a simple distraction free editor. It uses a hideaway interface that you access by moving your mouse to the edges of the screen. It is licensed with GPLv3 and it's available on Linux with Flatpak,via DEB on [Ubuntu][11], and RPM on [Fedora][12]. This is an example of the FocusWriter desktop. A very simple and intuitive interface where the menu automatically hides until you move your mouse pointer to the top or sides of the screen. Files are saved by default as an `.odt`, but it also supports plain text, `.docx`, and Rich text.
+[FocusWriter][10] 是一个简单的免干扰的编辑器。它使用隐藏的界面，鼠标移动到屏幕边界时可以显示。
 
 ![Image of FocusWriter][13]
 
