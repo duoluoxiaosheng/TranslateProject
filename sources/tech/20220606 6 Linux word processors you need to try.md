@@ -31,11 +31,12 @@ When I made the switch to Linux in the late 1990's, I was looking for high quali
 ### Etherpad
 
 [Etherpad][4] is an open source group editing project. It allows you to edit documents in real time much like Google Drive. The main difference is that it is entirely open source. According to their website you can, "write articles, press releases, to-do lists, together with your friends, fellow students or colleagues, all working on the same document at the same time." The source code is readily available to look at. Etherpad is licensed as Apache 2.0. You can use Etherpad in the cloud or download and [install][5] it on your own Linux computer.
-[Etherpad][4] 是一个开源项目。它可以让您像 Google Drive 那样实时编辑文档。它完全开源。据它的网站上介绍,您可以用它来写文章，新闻稿和待办清单，还可以和您的朋友，同学或者同事一起同时编辑同一个文档。源代码可查看。Etherpad 采用 Apache 开源协议。您可以直接在线使用它，或者把它下载并[安装][5]到您的 Linux 电脑上。
+[Etherpad][4] 是一个开源项目。它可以让您像 Google Drive 那样实时编辑文档。它完全开源。据它的网站上介绍，您可以用它来写文章，新闻稿和待办清单，还可以和您的朋友，同学或者同事一起同时编辑同一个文档。源代码可查看。Etherpad 采用 Apache 开源协议。您可以直接在线使用它，或者把它下载并[安装][5]到您的 Linux 电脑上。
 
 ### Cryptpad
 
 [CryptPad][6] is a collaboration suite that is end-to-end encrypted. It is licensed with GPLv3 and its source code is available on [GitHub][7]. It was developed by [Xwiki][8] Labs. It is an alternative to Google Drive and is self hosted. According to their website, "CryptPad is built to enable collaboration. It synchronizes changes to documents in real time. Because all data is encrypted, the service and its administrators have no way of seeing the content being edited and stored.” Cryptpad offers extensive [documentation][9] for users.
+[CryptPad][6] 是一个端到端加密的写作套件。使用 GPLv3 开源协议，并且源代码在 [GitHub][7] 上公开。 由 [Xwiki][8] 实验室开发。可替代 Google Drive 并且自主托管。根据网站描述 “CryptPad 旨在实现写作办公。实时同步文档的更改。由于所有数据都已加密，因此服务及其管理员无法查看正在编辑和存储的内容。” Cryptpad 为用户提供了丰富的文档。
 
 ### Focuswriter
 
