@@ -119,32 +119,46 @@ Fewer factors influence the program with crashes/bugs when it comes to a termina
 在终端中，使程序崩溃的因素很少。
 
 While the terminal tools could be unintuitive, they are often built for servers in mind. So, the tools do not receive frequent experience breaking updates and do not quickly fail to work.
+由于终端工具大部分是为服务器构建的，很多时候不够直观。因此，这些工具不会频繁的获得更新，也不会很快的失效。
 
 ### 7. More Tools for CLI
+### 7. 更多的命令行工具
 
 We do not have a GUI program for everything on Linux. However, there are several [CLI tools][11] to perform a wide range of operations, some fun and critical tasks as well.
+没有一个图形界面程序能解决所有问题。但是，对执行各种操作，一个有趣且关键的任务来说你有多个命令行工具可供选择。
 
 You need to get something done; chances are, you will find a command-line tool for it.
+你需要完成一些工作，来吧，总有一款命令行工具适合你。
+
 
 ### 8. Various Terminal Emulators to Try
+### 8. 尝试各种中断模拟器
 
 ![variety illustration][12]
 
 While you should not have any trouble with the default terminal emulator installed on your Linux distribution, you have plenty of other options.
+尽管使用 Linux 发行版默认安装的终端模拟器对你来说没有任何困难，你仍然有更多的选择。
 
 If you prefer a different look, more advanced features, or tailored for a specific use, you can look at some of the [best terminal emulators][13] available.
+如果你有特殊的外观和性能需求，或者为某些用途特殊定制。你可以看看这些[最佳的中断模拟器][13].
 
 If you thought using the terminal was boring, you must try some of them.
+如果你觉得使用中断是一件枯燥的事情，你必须试试这些终端。
 
 ### Wrapping Up
+### 结束语
 
 Personally, I feared the terminal when I was a new Linux user. But, as I got comfortable with it for small tasks, I got to realize the perks mentioned above.
+就我个人来说，当我刚开始解除 Linux 时，我也对中断心存畏惧。当时当我可以熟练的使用它处理小的任务的时候，我才开始意识到上面所说的终端的有点。
 
 You do not need to use the terminal over GUI for everything. Nevertheless, it is good to prefer the terminal for a few things because you might save your time, and get things done faster, and in a hassle-free manner.
+你没必要越过图形界面而使用终端处理所有的事情。尽管如此，最好还是使用终端处理一些事情，这可以节省你的时间，让你更快的完成工作，并心情愉悦。
 
 Abhishek has written an [excellent guide on various small things that make you get more comfortable with the Linux terminal][14].
+Abhishek 曾经写过一篇[最佳指南，熟悉 Linux 终端的一些小事][14]
 
 *What do you think are the benefits of a terminal over a GUI? What are your reasons to prefer the terminal? Let me know your thoughts in the comments section below.*
+*你觉得，相比于图形界面，终端有哪些优点呢？是什么原因让你选择终端呢？快来告诉我们吧。*
 
 --------------------------------------------------------------------------------
 
@@ -152,7 +166,7 @@ via: https://itsfoss.com/love-thy-terminal/
 
 作者：[Ankush Das][a]
 选题：[lkxed][b]
-译者：[译者ID](https://github.com/译者ID)
+译者：[duoluoxiaosheng](https://github.com/duoluoxiaosheng)
 校对：[校对者ID](https://github.com/校对者ID)
 
 本文由 [LCTT](https://github.com/LCTT/TranslateProject) 原创编译，[Linux中国](https://linux.cn/) 荣誉推出
