@@ -7,41 +7,41 @@
 [#]: publisher: " "
 [#]: url: " "
 
-Listen to music on Linux with Rhythmbox
+在 Linux 上使用 Rhythbox 听音乐
 ======
-Here's how I like to listen to streaming music and MP3 playlists with Rhythmbox on GNOME with Linux.
+下面我将介绍我是如何在 Linux 的 GNOME 桌面上使用 Rhythmbox 听在线音乐和 MP3 列表的。
 
 ![Woman programming][1] 
 
 Image by: WOCinTech Chat. Modified by Opensource.com. CC BY-SA 4.0
 
-It's hard for me to work in total silence. I need some kind of background noise, preferably some familiar music. My music-listening needs are pretty simple: I just need a music player that plays my library of MP3 music and streams from a few websites I like to listen to.
+对我来说，在完全安静的环境下工作是很困难的。我需要某种背景音，最好是一些熟悉的音乐。我在音乐上的需求很简单：我只需要一个音乐播放器，可以播放我的 MP3 音乐库和少数几个我喜欢的网站的在线音乐。
 
-I've tried a variety of music players on Linux, but I keep coming back to Rhythmbox. Rhythmbox is a music-playing application for GNOME. If your distribution uses GNOME, it probably also includes Rhythmbox. It's simple and plays my local music library as well as streams from internet radio websites. I like to listen to both streaming music and my own music library with Rhythmbox on Linux.
+我在 Linux 上尝试了多个音乐播放器，最终我还是选择了 Rhythmbox。 Rhythmbox 是一个 GNOME 桌面音乐播放器。如果你的 Linux 发行版使用的是 GNOME 桌面，很可能它已经安装了 Rhythmbox。它很简单，用来播放我本地的音乐库和音乐网站的在线音乐。我很乐意在 Linux 上使用 Rhythmbox 收听在线音乐和我自己的音乐库。
 
-### Listen to streaming music on Linux
+### 在 Linux 上收听在线音乐
 
-Rhythmbox supports listening to music from several streaming services. If you have a Last.fm or Libre.fm account, you can click the tab on the left to log in. Or, if you want to listen to streaming radio stations, click the Radio tab on the left to stream from one of the pre-configured internet radio websites.I usually like to listen to trance music while I'm writing code, and HBR1 Tranceponder is one of my favorite Internet radio stations:
+Rhythmbox 支持多个在线音乐服务商。如果你拥有一个 Last.fm 或者 Libre.fm 的帐号，你可以点击左侧的标签登录。或者，你想收听在线广播，点击左侧的广播标签，在预设的广播网站中选择一个。在我写代码的时候我通常喜欢听迷幻舞曲，HBR1 Tranceponder 是我最喜欢的一个在线广播网站。
 
 ![Streaming HBR1 Traceponder][2]
 
-### Listen to my music library on Linux
+### 在 Linux 上播放我的音乐库
 
-I've collected a large MP3 music library over the years. Since the MP3 patents expired in the US several years ago, it is an open music format that plays well with Linux.
+在过去的几年中，我收集了大量的 MP3 音乐。由于几年前 MP3 的专利在美国已经到期，它在 Linux 是一种很好用的开放的音乐格式。
 
-I keep my 20-gigabyte MP3 music library outside my home directory, in `/usr/local/music`. To import music into Rhythmbox, click the **Import** button, select the `/usr/local/music` directory, or wherever you've saved your music library, and let Rhythmbox identify the MP3 music collection. When it's done, click the **Import listed tracks** button to complete the import process.
+我把我 20GB 的 MP3 音乐保存在我的主目录之外，在 `/usr/local/music` 。要把音乐导入 Rhythmbox，点击 **导入** 按钮，选择 `usr/local/music` 目录，或者任何你保存音乐的目录，让 Rhythmbox 去识别 MP3 音乐。结束以后点击 **导入列出的曲目** 按钮导入就完成了。
 
 ![Use the Import button to add music to Rhythmbox][3]
 
 ![Rhythmbox identifies new music files][4]
 
-Rhythmbox plays my music collection and organizes songs by genre, artist, and album so I can quickly find the music I want to listen to.
+Rhythmbox 播放我的音乐，并通过类型，艺术家和专辑组织歌曲，所以我可以很容易找到我想听的音乐。
 
 ![Listening to a music library in Rhythmbox][5]
 
-### The beat goes on
+###  旋律永存
 
-I like Rhythmbox as my music player on Linux because it's simple and stays out of my way. And listening to music helps me tune out everyday noise, making my day go by just a bit faster.
+我愿意在 Linux 上使用 Rhythmbox 作为我的音乐播放器，它是如此简洁，不会影响到我。而且听音乐可以帮我和谐掉日常的噪音，让我每一天都可以过的快一点。
 
 Image by: Streaming HBR1 Tranceponder in Rhythmbox (image: Jim Hall, license: CC BY SA)
 
