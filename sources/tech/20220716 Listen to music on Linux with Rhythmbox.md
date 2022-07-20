@@ -17,7 +17,7 @@ Image by: WOCinTech Chat. Modified by Opensource.com. CC BY-SA 4.0
 
 对我来说，在完全安静的环境下工作是很困难的。我需要某种背景音，最好是一些熟悉的音乐。我在音乐上的需求很简单：我只需要一个音乐播放器，可以播放我的 MP3 音乐库和少数几个我喜欢的网站的在线音乐。
 
-我在 Linux 上尝试了多个音乐播放器，最终我还是选择了 Rhythmbox。 Rhythmbox 是一个 GNOME 桌面音乐播放器。如果你的 Linux 发行版使用的是 GNOME 桌面，很可能它已经安装了 Rhythmbox。它很简单，用来播放我本地的音乐库和音乐网站的在线音乐。我很乐意在 Linux 上使用 Rhythmbox 收听在线音乐和我自己的音乐库。
+我在 Linux 上尝试了多个音乐播放器，最终我还是选择了 Rhythmbox。 Rhythmbox 是一个 GNOME 桌面音乐播放器。如果你的 Linux 发行版使用的是 GNOME 桌面，很可能它已经安装了 Rhythmbox。它很简单，用来播放我本地的音乐库和广播网站的在线音乐。我很乐意在 Linux 上使用 Rhythmbox 收听在线音乐和我自己的音乐库。
 
 ### 在 Linux 上收听在线音乐
 
